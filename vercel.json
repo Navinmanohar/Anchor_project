@@ -1,0 +1,5 @@
+{
+    "version":2,
+    "name":"Social-media",
+    "builds":["src":"index.js"]
+}
