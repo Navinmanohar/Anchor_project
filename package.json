@@ -2,7 +2,7 @@
   "name": "starter",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://backend-anchor.vercel.app/",
+  "proxy": "https://web-app-xhhg.onrender.com/",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@iconscout/react-unicons": "^1.1.6",
