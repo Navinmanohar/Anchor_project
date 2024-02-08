@@ -1,5 +1,5 @@
 import axios from "axios";
-const API=axios.create({baseURL:"https://backend-anchor.vercel.app/"})
+const API=axios.create({baseURL:"https://web-app-xhhg.onrender.com/"})
 
 API.interceptors.request.use((req) => {
     if (localStorage.getItem('profile')) {

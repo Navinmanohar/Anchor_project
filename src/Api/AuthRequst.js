@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API=axios.create({baseUrl:"https://backend-anchor.vercel.app/"})
+const API=axios.create({baseUrl:"https://web-app-xhhg.onrender.com/"})
 
 
 export const login=(formData)=>API.post('/auth/login',formData)
